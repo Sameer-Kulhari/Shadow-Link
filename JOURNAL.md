@@ -1,7 +1,7 @@
 ---
 Title: "Shadow-link"
 Author: "Sameer-Kulhari"
-Description: "A 12ch transmitter with ELRS and Open-TX support"
+Description: "A transmitter module with ELRS and Open-TX support"
 Created_at: "2025-07-09"
 ---
 
