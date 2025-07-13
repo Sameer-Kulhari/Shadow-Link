@@ -33,7 +33,7 @@ Created_at: "2025-07-09"
 #### New parts added are : Colling Fan,Neopixel ,New Power input option.
 ### Check new schematic [View](Images/PCB/ELRS/schematic.pdf)
 
-**Total time spent = 3hr**
+**Total time spent = 4hr**
 
 ---
 ---
@@ -43,7 +43,7 @@ Created_at: "2025-07-09"
 ### Here are some pics :
 | <img src="Images/CAD/Top.png" width="400" /> |<img src="Images/CAD/Bottom.png" width="420" /> |
 
-**Total time spent = 3hr**
+**Total time spent = 5hr**
 
 ---
 ---
@@ -51,7 +51,7 @@ Created_at: "2025-07-09"
 ## June 13th: I researched for the parts sourcing and made a readme.
 #### I update the readme and journal with all new changes.
 
-**Total time spent = 2hr**
+**Total time spent = 3hr**
 
 ---
 ---
