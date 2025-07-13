@@ -1,2 +1,4 @@
 # Shadow-Link
-A fully custom diy transmitter with ELRS support,oled ,rgb ,dual power input,15+ km range and custom case.
+A diy Transmitter Module with ELRS ,15+ km range ,5 ms latency ,Oled ,Rgb ,Colling Fan ,External Antenna and a custom case.
+
+
