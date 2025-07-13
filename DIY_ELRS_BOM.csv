@@ -1,0 +1,22 @@
+Supplier,Item,Price (USD),Link
+Quartz Components,OLED SSD1306,1.6,https://quartzcomponents.com/products/oled-display-0-96-inch-i2c-interface-4-pin-blue-ssd1306?variant=33049183060103
+Quartz Components,MP1584 Voltage Regulator,0.5,https://quartzcomponents.com/products/ultra-small-size-dc-dc-step-down-power-supply-module-3a-adjustable-buck-converter?variant=35139469672601
+Quartz Components,RG81 Ipex to SMA,0.5,https://quartzcomponents.com/products/rg81-ipx-to-sma-female-rf-cable-10cm?variant=45037619904746
+Quartz Components,12 dBi Antenna,2.1,https://quartzcomponents.com/products/2-4ghz-5g-12dbi-dual-band-wifi-antenna-with-rp-sma-male-connector?variant=45084438954218
+Quartz Components,USB to TTL Converter,0.7,https://quartzcomponents.com/products/ch340g-usb-to-ttl-converter?variant=39261305602232
+Quartz Components,Cooling Fan,0.84,https://quartzcomponents.com/products/raspberry-pi-cooling-fan?variant=31897905365127
+Quartz Components,Battery,3.26,https://quartzcomponents.com/products/3-7v-4400mah-lithium-battery-with-1-year-warranty?variant=43584594084074
+Quartz Components,Misc,2,
+Quartz Components,Shipping,2.54,
+Quartz Components,TOTAL,13.94,
+,,,
+Lion Circuits,PCB,11.54,https://order.lioncircuits.com/
+Lion Circuits,Shipping,2.33,
+Lion Circuits,TOTAL,13.87,
+,,,
+SemiNest,E28-2G4M27S,16.9,https://seminest.in/shop/iot-communication-modules/lora-modules/chengdu-ebyte-elec-tech-e28-2g4m27s/
+SemiNest,ESP32-WROOM-32E-N16,8.85,https://seminest.in/shop/iot-communication-modules/wifi-modules/espressif-systems-esp32-wroom-32e-n16/
+SemiNest,Shipping,2.33,
+SemiNest,TOTAL,28.08,
+,,,
+,,Total,55.89
