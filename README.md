@@ -9,6 +9,11 @@ This Transmitter module works on a open source Firmware called ELRS ,which is us
 - External Antenna
 - ELRS support
 - Custom case and Pcb
+- Works on Uart
+- Works with any ELRS reciever
+
+# Purpose :
+- I made this transmitter module for my future projects in which they need a device to transfer data wirelessly , for long range and quickly ,So i made this transmitter module,So I can just send data to this module via Uart and receive on other side using any ELRS reciever.
 
 # Parts Used :
 - ESP-32 WROOM
