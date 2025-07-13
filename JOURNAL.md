@@ -6,6 +6,8 @@ Description: "A transmitter module with ELRS support that can transmit data to 1
 Created_at: "2025-07-09"
 ---
 ---
+**Total Time Spent : 24hr**
+---
 
 ## June 8th : Design the idea and working of project
 #### I figured out how should my Transmitter module will work and how can i build this.I researched a lot about transmitter and found some cool things about them and what i can do to make a professional Transmitter module like Radio-Master and Flysky mid to high range ones.while researching i found that all proffesional grade ones support ERLS which is open-source projects so,I can use them in my transmitter module
