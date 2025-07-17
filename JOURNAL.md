@@ -5,56 +5,86 @@ Description: "A transmitter module with ELRS support that can transmit data to 1
 15+km "
 Created_at: "2025-07-09"
 ---
----
 **Total Time Spent : 24hr**
 ---
 
-## June 8th : Design the idea and working of project
-#### I figured out how should my Transmitter module will work and how can i build this.I researched a lot about transmitter and found some cool things about them and what i can do to make a professional Transmitter module like Radio-Master and Flysky mid to high range ones.while researching i found that all proffesional grade ones support ERLS which is open-source projects so,I can use them in my transmitter module
-#### Finally I have a idea about the working and functionality of my transmitter in pen and paper ...XD...
+# Project Journal – DIY ELRS Transmitter Module  
+**By Sameer Kulhari**
 
-<img src="Images/Journal/June-8th.jpeg" width="250" />
+## June 8th: Designed the idea and working of the project
 
-**Total time spent = 4.5 hr**
+Today, I figured out the full concept of how my transmitter module will actually work and how I can build it from scratch. I spent a lot of time researching how professional transmitters like **Radiomaster**, **Jumper**, and **Flysky** are built and what features they have.
 
----
----
+One cool thing I found is that most of the mid to high-end transmitters support **ExpressLRS (ELRS)** — which is open-source! That was a big moment because it means I could also use ELRS in my own DIY transmitter module.
 
-## June 9th : Design the schematic and pcb for ELRS-TX .
-#### I made the schematic and pcb of ELRS-TX in kicad.I also attached the images of all layers of pcb,schematic and 3d view of pcb in the github repo with the gerber files and libraries used in pcb.
-### Here are some images :
-| <img src="Images/PCB/ELRS/Shadow-Link-Top.png" width="420" /> | <img src="Images/PCB/ELRS/Shadow-Link-Bottom.png" width="420" /> |
+After all the research, I now had a clear idea of what I wanted to make — how the transmitter will function, what components it’ll need, and even how it should look. I drew the full plan on paper.
 
-**Total time spent = 3.5hr**
+<img src="Images/Journal/June-8th.jpeg" width="500" />
+
+**Total time spent: 4.5 hours**
 
 ---
----
 
-## June 10th : Design the pcb and added new parts for ELRS-TX
-#### I first make a list of new components which can be used in transmitter module and then make a new schematic according to it and then I make a new pcb according to it in which the ELRS-TX pcb can be inserted easily so it can be used as plug and play module.
-#### New parts added are : Colling Fan,Neopixel ,New Power input option.
-### Check new schematic [View](Images/PCB/ELRS/schematic.pdf)
+##  June 9th: Designed the schematic and PCB for ELRS-TX
 
-**Total time spent = 4hr**
+Today I moved from planning to actually designing. I used **KiCad** to create the full schematic and layout for my **ELRS-TX** board.
 
----
----
+Once the PCB was ready, I exported the **gerber files**, added all the **libraries**, and uploaded **layer images** and a **3D view** of the PCB to my GitHub repository so everything stays well-documented and reproducible.
 
-## June 12th: Started Designing the case
-#### I first take all the dimensions and then make a case according to in onshape.
-### Here are some pics :
-| <img src="Images/CAD/Top.png" width="400" /> |<img src="Images/CAD/Bottom.png" width="420" /> |
+**Here are a few images from the repo:**
 
-**Total time spent = 5hr**
+<p align="center">
+  <img src="Images/PCB/ELRS/Shadow-Link-Top.png" width="38%" />
+  <img src="Images/PCB/ELRS/Shadow-Link-Bottom.png" width="45%" />
+</p>
+
+
+**Total time spent: 3.5 hours**
 
 ---
+
+## June 10th: Updated PCB and added new parts for ELRS-TX
+
+Today I focused on upgrades and made the board even better!
+
+I first created a list of new components that I could add to make the transmitter feel more pro-level. After that, I updated the schematic with these parts and redesigned the PCB to make it **modular** — so the ELRS-TX board can be plugged in easily and used as a **plug-and-play module**.
+
+### New features I added:
+-  **Cooling fan** for stable performance
+-  **NeoPixel** for status indication
+-  **New power input option**
+
+The final schematic looks clean, and the new board layout is compact and efficient.
+
+<img src="Images/PCB/ELRS/schematic.png " "width=50%" />
+
+**Total time spent: 4 hours**
+
 ---
 
-## June 13th: I researched for the parts sourcing and made a readme.
-#### I update the readme and journal with all new changes.
+##  June 12th: Started designing the case
 
-**Total time spent = 3hr**
+Today I worked on the outer casing of the transmitter. I took all the dimensions from the PCBs and components and then used **Onshape** to start designing the case.
+
+It’s still in the prototyping stage, but the fit looks really good!
+
+Here are some preview pics:
+
+<p align="center">
+  <img src="Images/CAD/Top.png" width="38%" />
+  <img src="Images/CAD/Bottom.png" width="45%" />
+</p>
+
+**Total time spent: 5 hours**
 
 ---
----
 
+## June 13th: Parts sourcing + README update
+
+I researched and finalized where to buy all the components — including the ESP32, E28 LoRa module, OLED, and other parts.
+
+After that, I updated the **README file** and this **journal log** to include all the new changes and features I’ve added over the last few days.
+
+Now the project is fully documented and ready to share! 
+
+**Total time spent: 3 hours**
