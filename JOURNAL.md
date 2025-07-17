@@ -56,7 +56,7 @@ I first created a list of new components that I could add to make the transmitte
 
 The final schematic looks clean, and the new board layout is compact and efficient.
 
-<img src="Images/PCB/ELRS/schematic.png " "width=50%" />
+<img src="Images/PCB/ELRS/schematic.png" width="50%"/>
 
 **Total time spent: 4 hours**
 
